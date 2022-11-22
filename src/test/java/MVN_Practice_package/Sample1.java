@@ -6,7 +6,7 @@ public class Sample1 {
 	@Test
 	public void demo() {
 		
-		System.out.println("Welcome");
+		System.out.println("Welcome to branch 1");
 	}
 	
 
