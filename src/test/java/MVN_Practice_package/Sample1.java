@@ -7,6 +7,9 @@ public class Sample1 {
 	public void demo() {
 		
 		System.out.println("Welcome to branch 1");
+		System.out.println("Welcome to branch 2");
+		
+		
 	}
 	
 
